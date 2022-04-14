@@ -5,7 +5,7 @@
 Projeto de uma empresa fictícia de uma Hamburgueria. Feito para treinar treinamento **HTML** e **CSS** .
 - O mais desafiador foi usar **::before**.
 
-Ir para o arquirvo do projeto [Landing-page-burguer](https://github.com/LucianoSabino/landingpages/tree/main/landing-page-burguer)
+Ir para o arquirvo do projeto [Landing-page-burguer](https://github.com/LucianoSabino/landingpages/tree/main/landing-page-burguer).
 
 ![foto demostrativa do projeto](https://github.com/LucianoSabino/landingpages/blob/main/landing-page-burguer/img/gif-projeto.gif?raw=true)
 
@@ -38,6 +38,7 @@ Ir para o arquivo do projeto [Landingpage-academia](https://github.com/LucianoSa
 Projeto de um Website.
 - A grande sacada foi o circulo para fazer, que teve que bloquear a rolagem tanto para baixo e para cima para ele ficar
 
-Ir para o arquivo do projeto [Website-moderno](https://github.com/LucianoSabino/landingpages/tree/main/website-moderno)
+Ir para o arquivo do projeto [Website-moderno](https://github.com/LucianoSabino/landingpages/tree/main/website-moderno).
+Veja o projeto [ao vivo](https://website-moderno.netlify.app/).
 
 ![foto demostrativa do projeto](https://github.com/LucianoSabino/landingpages/blob/main/website-moderno/img/gif-projeto.gif?raw=true)
